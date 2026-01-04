@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Ritika Mahato a second-year student from India<br><br>- 🔭 I’m working as a Open-Source Contribution<br>- 📚 I'm currently Learning Web Development, Open Source & Embedded Systems<br>- ⚡ In my free time I Interested in building, documenting, and improving real-world projects</p>
+<p align="left">I'm Ritika Mahato a second-year student from India<br><br>- 🔭 I’m working as a Open-Source Contribution<br>- 📚 I'm currently Learning Web Development, Open Source & Embedded Systems<br>- ⚡ In my free time Interested in building, documenting, and improving real-world projects</p>
 
 ###
 
