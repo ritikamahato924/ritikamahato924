@@ -1,65 +1,47 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Hi, I'm Ritika Mahato 👋 BCA Student (2027)
+---
 
-###
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ritika-mahato-9255ba2a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ritikamahato221@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/rexQSn4b" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+### 📈 TradeTrack (Zerodha Clone)
 
+Built a full-stack stock trading platform with dashboard analytics, portfolio tracking, and order management using React, Node.js, and MongoDB.
 
-###
+### 🌍 Travel Listing Platform
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+🔗 Live Demo: https://traveling-project-1.onrender.com/listings
 
-###
+Developed a full-stack travel listings app with authentication, CRUD operations, and server-side rendering using Node.js, Express, and MongoDB.
 
-<h1 align="center">Hey there 👋</h1>
+### 🌱 Agri Project
 
-###
+🔗 Live Demo: https://agri-project-zeta.vercel.app/
 
-<h3 align="left">👩‍💻  About Me</h3>
+Working on a plant disease detection system using API-based approach with future integration of Machine Learning.
 
-###
+---
 
-<p align="left">I'm Ritika Mahato a second-year student from India<br><br>- 🔭 I’m working as a Open-Source Contribution<br>- 📚 I'm currently Learning Web Development, Open Source & Embedded Systems<br>- ⚡ In my free time Interested in building, documenting, and improving real-world projects</p>
+## 🛠 Tech Stack
 
-###
+* **Languages:** Java, Python, JavaScript
+* **Frontend:** React, HTML, CSS
+* **Backend:** Node.js, Express
+* **Database:** MongoDB
+* **Tools:** Git, GitHub
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## 📈 Currently
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" alt="python logo"/>
-          
-</div>
+* Solving Data Structures & Algorithms problems
+* Contributing to Open Source projects
+* Building scalable full-stack applications
 
+---
 
+## 🔗 Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/ritika-mahato-9255ba2a3/
+* Email: [ritikamahato221@gmail.com](mailto:ritikamahato221@gmail.com)
+
+---
