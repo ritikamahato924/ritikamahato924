@@ -1,6 +1,6 @@
 Hi, I'm Ritika Mahato 👋
 
-🎓 BCA Student (2027)
+🎓 BCA Student (2027)<br>
 💻 Aspiring Software Developer
 
 ---
