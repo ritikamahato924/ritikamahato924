@@ -25,6 +25,16 @@ Working on a plant disease detection system using API-based approach with future
 
 ---
 
+### 🛠 Tech Stack
+
+Languages: Java, Python, JavaScript
+Frontend: React, HTML, CSS
+Backend: Node.js, Express
+Database: MongoDB
+Tools: Git, GitHub
+
+---
+
 ## 🔗 Connect with Me
 
 * LinkedIn: https://www.linkedin.com/in/ritika-mahato-9255ba2a3/
