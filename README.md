@@ -1,18 +1,21 @@
-# Hi, I'm Ritika Mahato 👋 BCA Student (2027)
+# Hi, I'm Ritika Mahato 👋
+
+🎓 BCA Student (2027)
+💻 Aspiring Software Developer
 
 ---
 
 ## 🚀 Featured Projects
-
-### 📈 TradeTrack (Zerodha Clone)
-
-Built a full-stack stock trading platform with dashboard analytics, portfolio tracking, and order management using React, Node.js, and MongoDB.
 
 ### 🌍 Travel Listing Platform
 
 🔗 Live Demo: https://traveling-project-1.onrender.com/listings
 
 Developed a full-stack travel listings app with authentication, CRUD operations, and server-side rendering using Node.js, Express, and MongoDB.
+
+### 📈 TradeTrack (Zerodha Clone)
+
+Built a full-stack stock trading platform with dashboard analytics, portfolio tracking, and order management using React, Node.js, and MongoDB.
 
 ### 🌱 Agri Project
 
