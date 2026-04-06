@@ -1,4 +1,4 @@
-# Hi, I'm Ritika Mahato 👋
+Hi, I'm Ritika Mahato 👋
 
 🎓 BCA Student (2027)
 💻 Aspiring Software Developer
