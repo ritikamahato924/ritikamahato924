@@ -7,21 +7,16 @@
 
 ## 🚀 Featured Projects
 
-### 🌍 Travel Listing Platform  
-[![Travel](https://img.icons8.com/color/48/airplane-take-off.png)](https://traveling-project-1.onrender.com/listings)  
-✈️ Full-stack travel listing app with authentication & CRUD operations.
+### 🌍 Travel Listing Platform 
+🔗 Live Demo: https://traveling-project-1.onrender.com/listings 
+Developed a full-stack travel listings app with authentication, CRUD operations, and server-side rendering using Node.js, Express, and MongoDB. 
 
----
+### 📈 TradeTrack (Zerodha Clone) 
+Built a full-stack stock trading platform with dashboard analytics, portfolio tracking, and order management using React, Node.js, and MongoDB. 
 
-### 📈 TradeTrack (Zerodha Clone)  
-[![TradeTrack](https://img.icons8.com/color/48/combo-chart.png)](https://your-project-link.com)  
-📊 Stock trading platform with analytics, portfolio tracking, and order management.
-
----
-
-### 🌱 Agri Project  
-[![Agri](https://img.icons8.com/color/48/plant-under-sun.png)](https://agri-project-zeta.vercel.app/)  
-🌿 Smart farming platform with plant disease detection and weather insights.
+### 🌱 Agri Project 
+🔗 Live Demo: https://agri-project-zeta.vercel.app/ 
+Working on a plant disease detection system using API-based approach with future integration of Machine Learning. 
 
 ---
 
